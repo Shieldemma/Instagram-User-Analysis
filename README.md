@@ -1,7 +1,7 @@
 
 
 
-# INSTARGRAM USER ANALYTICS
+# INSTAGRAM USER ANALYTICS
 
 **DESCRIPTION:**
 
@@ -9,7 +9,7 @@ User analytics is the process by which we track how users engage and interact wi
 
 These insights are then used by teams across the business to launch a new marketing campaign, decide on features to build for an app, track the success of the application by measuring users engagement and improve the experience altogether while helping the business grow.
 
-**BUINESS NEED**
+**BUSINESS NEED**
 
 **A)Marketing:** The marketing team wants to launch some campaigns, and they need your help with the following
 
@@ -29,7 +29,7 @@ These insights are then used by teams across the business to launch a new market
 
 **Task:** Identify and suggest the top most commonly used hashtags on the platform
 
-**5.Lanch AD Campaign:** The team wants to know, which day would be the best day to launch ADs.
+**5.Launch AD Campaign:** The team wants to know, which day would be the best day to launch ADs.
 
 **Task:** What day of the week do most users register on? Provide insights on when to schedule an ad campaign.
 
@@ -41,7 +41,7 @@ These insights are then used by teams across the business to launch a new market
 
 **2:Bots and Fake Accounts:** The investors wants to know if the platform is crowded with fake and dummy  accounts
 
-**Task:** Provide data on users(bots) who have liked every singe photo on the site (since any normal user would not be able to do this
+**Task:** Provide data on users(bots) who have liked every single photo on the site (since any normal user would not be able to do this
 
 **Dataset:** The data is stored inside Microsoft azure sql database the data contains a total dataset of 7 columns namely “comments, follows, likes, photo_tags, photos,tags, users”
 
