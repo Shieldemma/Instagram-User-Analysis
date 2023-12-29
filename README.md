@@ -91,7 +91,6 @@ Jordyn.Jacobson2, joined the platform on 2016-05-14
 	Duane60        
 	Julien_Schmidt	    
 	Mike.Auer39      
-
         Franco_Keebler64
 	Nia_Haag	        
 	Hulda.Macejkovic
@@ -101,7 +100,6 @@ Jordyn.Jacobson2, joined the platform on 2016-05-14
 	Esther.Zulauf61  	
 	Bartholome.Bernhard
 	Jessyca_West	    
-
 	Esmeralda.Mraz57	
         Bethany20	        
 
@@ -109,18 +107,18 @@ Jordyn.Jacobson2, joined the platform on 2016-05-14
 
  The winner is **Zack_Kemmer93** with a maximum likes of 48
 
-1. **The 5 commonly used hashtags is the following with their number of tag count**
+4. The 5 commonly used hashtags is the following with their number of tag count**
 
-smile	    59
-beach	    42
-party	    39
+smile	           59
+beach	           42
+party	           39
 fun	           38
 lol	           24
-food	   24
-concert	   24
+food	           24
+concert	           24
 hair	           23
-happy	   22
-dreamy	   20
+happy	           22
+dreamy	           20
 
 **5.The best day of the week to run  ads campaign is the day we have most users registration which are;** Sunday with a registration count of 16 and Thursday with a registration count of 16
 
