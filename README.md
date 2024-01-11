@@ -129,7 +129,7 @@ totoal_photos  total_users     average_posts_per_user
 
 RECOMMENDATIONS
 
-1.From the above analysis the maerket team has to step up publicity to draw more users. users who have not posted any single photos should be sent promotional emails.
+1.From the above analysis the market team has to step up publicity to draw more users. users who have not posted any single photos should be sent promotional emails.
 
 2.Also the top trending hashtags should be use to gain more visibility on the application.
 
